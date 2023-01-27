@@ -1,0 +1,23 @@
+{
+  "name": "consumo-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidGm10/Consumo-Apis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidGm10/Consumo-Apis/issues"
+  },
+  "homepage": "https://github.com/DavidGm10/Consumo-Apis#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
